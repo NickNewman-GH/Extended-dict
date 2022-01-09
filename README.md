@@ -9,8 +9,8 @@
 ## ploc
 Возвращает словарь с парами ключ-значение по определённому условию.
 
-Демонстрация работы кода, расположенного в файле main.py:<br>
+### Демонстрация работы кода, расположенного в файле main.py:<br>
 <img src="imgs/work_demonstration.png" width="400" />
 
-Coverage:<br><br>
+### Coverage:<br><br>
 <img src="imgs/coverage.png" width="400" />
