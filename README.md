@@ -6,5 +6,4 @@
 ![Image alt](imgs/work_demonstration.png)
 
 
-Coverage:
-![Image alt](imgs/coverage.png)
+Coverage: ![Image alt](imgs/coverage.png)
